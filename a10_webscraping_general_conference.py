@@ -32,3 +32,11 @@ standard_works_dict = {'Speaker_Name' : '', 'Talk_Name' : '', 'Kicker' : '',
                              'Moses': 0, 'Abraham': 0, 'Joseph Smith—Matthew': 0, 
                              'Joseph Smith—History': 0, 'Articles of Faith': 0}
 
+# Menu
+def menu():
+    print("++General Conference Webscraping Menu++")
+    print("1.See a summary of all talks")
+    print("2.See a specific talk")
+    print("Anything else will exit the program")
+    return input("Enter your choice: ")
+
