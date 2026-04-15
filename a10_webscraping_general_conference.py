@@ -1,7 +1,7 @@
 """
 Project: P4 - Webscraping General Conference
 Description: Scrapes talk data and scripture references from the October 2025 General Conference 
-             and stores it in a PostgreSQL database. Allows users to view summary charts of the data.
+and stores it in a PostgreSQL database. Allows users to view summary charts of the data.
 Authors: Tye, Kyle, and Tanner
 """
 
